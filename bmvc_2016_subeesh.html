@@ -1,0 +1,182 @@
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+
+    
+
+    
+    </style>
+<link rel="stylesheet" type="text/css" href="./images/standard-css-ski-ltr-ltr.css">
+<link rel="stylesheet" type="text/css" href="./images/overlay.css">
+<link rel="stylesheet" type="text/css" href="./images/allthemes-view.css">
+
+
+
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything" class="">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="">
+<tbody><tr class="sites-header-primary-row" id="sites-chrome-userheader">
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
+</td>
+</tr>
+</tbody></table>
+</div>
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tbody><tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left" style="display: none; width: 150px">
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas" role="main">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="display: none;">
+</div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="display: none;" align="left">
+<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none">facedeblurring</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><h1 style="text-align:center"><a name="TOC-Deskewing-by-space-variant deblurring"></a>
+        &nbsp; <font color="#000000">Deskewing by space-variant deblurring</font></h1>
+<p style="text-align:center">
+<font color="#000000" size="3">
+<a href="https://kseemakurthy.wordpress.com/" rel="nofollow">Karthik Seemakurthy</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iitm.ac.in/~ee13d050/" rel="nofollow">Subeesh Vasu</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iitm.ac.in/~raju/" rel="nofollow">A.N. Rajagopalan</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</font>
+<br>
+<p style="text-align:left"><strong><span><font color="#000000" size="4">Abstract</font></span></strong></p>
+<p style="text-align:justify"><font color="#000000" size="3"><span style="line-height:1.5;background-color:transparent">Skew and motion blur are significant challenges when camera and scene of interest are in two different media. Skew occurs due to spatially varying refraction on a dynamic water surface, whereas motion blur results from multiple intensities impinging on the imaging sensor during camera exposure time due to time varying refraction. In this paper, we introduce the notion of virtual depth map which we assign to a planar scene when observed through a dynamic water surface and transform the deskewing problem into one of space-variant deblurring from a single image within an alternating minimization framework. Since the nature of the virtual depth map can change during exposure due to change in wind properties, we also propose a shot detection framework to identify segments of frames from the captured video which conform to a single virtual depth map. While the overall wave motion can be arbitrary, within each segment the nature of wave is modeled as an exponentially decaying periodic wave.
+</span></font></p>
+
+<p><strong><font color="#000000" size="5">Examples</font></strong></p>
+<p><strong><font color="#111111" size="5">Synthetic</font></strong></p>
+<table align="center">
+<tbody>
+<tr>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/wall_synthetic/blurred.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/wall_synthetic/tian_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/wall_synthetic/oreifej_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/wall_synthetic/xu_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/wall_synthetic/prop_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+</tr>
+<tr>
+<tr>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/bmvc_synthetic/blurred.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/bmvc_synthetic/tian_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/bmvc_synthetic/oreifej_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/bmvc_synthetic/xu_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/bmvc_synthetic/prop_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+</tr>
+<tr>
+<tr>
+<tr>
+<td style="width:251px;height:21px;text-align:center"><font color="#000000">Blurred image </font></td>
+<td style="width:251px;height:21px;text-align:center"><font color="#000000">Tian et al. ICCV 2009</font></td>
+<td style="width:251px;height:21px;text-align:center"><font color="#000000">Oreifej et al. CVPR 2011</font></td>
+<td style="width:251px;height:21px;text-align:center"><font color="#000000">Xu et al. CVPR 2013</font></td>
+<td style="width:251px;height:21px;text-align:center"><font color="#000000">Ours</font></td>
+</tr>
+<tr>
+</tbody>
+</table>
+<p><strong><font color="#111111" size="5">Real</font></strong></p>
+
+
+<table align="center">
+<tbody>
+<tr>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/real_shell/blurred.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/real_shell/tian_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/real_shell/oreifej_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/real_shell/xu_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/real_shell/prop_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+</tr>
+<tr>
+<tr>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/real_rock/blurred.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/real_rock/tian_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/real_rock/oreifej_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/real_rock/xu_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+<td style="width:251px;height:150px">
+<font color="#000000"><img align="bottom" alt="" src="bmvc_projct_page/real_rock/prop_rest.png" style="margin:0px 0px 0px 0px;width:100%;float:left;display:inline;max-width:99%">
+</font></td>
+</tr>
+<tr>
+<tr>
+<td style="width:251px;height:21px;text-align:center"><font color="#000000">Blurred image </font></td>
+<td style="width:251px;height:21px;text-align:center"><font color="#000000">Tian et al. ICCV 2009</font></td>
+<td style="width:251px;height:21px;text-align:center"><font color="#000000">Oreifej et al. CVPR 2011</font></td>
+<td style="width:251px;height:21px;text-align:center"><font color="#000000">Xu et al. CVPR 2013</font></td>
+<td style="width:251px;height:21px;text-align:center"><font color="#000000">Ours</font></td>
+</tr>
+<tr>
+
+
+</tbody>
+</table>
+<hr>
+<p><strong><font color="#000000" size="4">Technical Paper, Supplementory, and Poster</font></strong></p>
+<table align="center" border="0" cellpadding="2" cellspacing="4">
+<tbody>
+<tr colspan="2">
+<td align="center" style="width:0px;height:243px"></td>
+<td align="left" style="width:860px;height:243px"><font color="#000000"><font size="3">
+                    Karthik Seemakurthy, Subeesh Vasu, A.N. Rajagopalan, "Deskewing by space-variant deblurring", British Machine Vision Conference (<b><i>BMVC</i></b>), 2016</font><br>
+<br>
+<img alt="" height="45" src="images/Adobe_pdf_icon.png" width="45">&nbsp;<font size="3">&nbsp;&nbsp;<a href="pdf/2016_Seemakurthy_Deskewing_BMVC.pdf" rel="nofollow">Paper</a>&nbsp; </font>&nbsp;
+<img alt="" height="45" src="images/Adobe_pdf_icon.png" width="45">&nbsp;<font size="3">&nbsp;&nbsp;<a href="pdf/2016_Seemakurthy_Deskewing_BMVC_supple.pdf" rel="nofollow">Supplementary</a>&nbsp; </font>&nbsp;
+<img alt="" height="45" src="images/Adobe_pdf_icon.png" width="45">&nbsp;<font size="3">&nbsp;&nbsp;<a href="pdf/2016_Seemakurthy_Deskewing_BMVC_poster.pdf" rel="nofollow">Poster</a>&nbsp; </font>&nbsp;
+
+<hr>
+<p style="text-align:left"><strong><font color="#000000" size="4">References</font></strong></p>
+<p style="text-align:left"><font color="#000000">[1] Yuandong Tian and Srinivasa G Narasimhan. "Seeing through water: Image restoration using model-based tracking", ICCV 2009.</font></p>
+<p style="text-align:left"><font color="#000000">[2] Omar Oreifej, Guang Shu, Teresa Pace, and Mubarak Shah. "A two-stage reconstruction approach for seeing through water", CVPR 2011.</font></p>
+<p style="text-align:left"><font color="#000000">[3] Li Xu, Shicheng Zheng, and Jiaya Jia, "Unnatural l0 sparse representation for natural
+image deblurring," CVPR, 2013.</font></p></div></td></tr></tbody></table>
+</div> 
+
+</body></html>
