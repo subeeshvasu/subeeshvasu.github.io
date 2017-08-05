@@ -91,7 +91,7 @@
     <table align="center">
         <tbody><tr>
             <td>
-                <a href="images/circles_blrd.png"><img src="images/circles_blrd.png" width="400"></a>
+                <a href="cvpr17_imgs/circles_blrd.png"><img src="cvpr17_imgs/circles_blrd.png" width="400"></a>
             </td>
             <td class="style1" style="width: 378px">
                 <a href="cvpr17_imgs/prediction_img.png"><img src="cvpr17_imgs/prediction_img.png" width="400"></a>
