@@ -91,16 +91,16 @@
     <table align="center">
         <tbody><tr>
             <td>
-                <a href="cvpr17_imgs/circles_blrd.png"><img src="cvpr17_imgs/circles_blrd.png" width="400"></a>
+                <a href="images/circles_blrd.png"><img src="images/circles_blrd.png" width="400"></a>
             </td>
             <td class="style1" style="width: 378px">
-                <a href="cvpr17_imgs/prediction_img.png"><img src="cvpr17_imgs/prediction_img.png" width="400"></a>
+                <a href="images/prediction_img.png"><img src="images/prediction_img.png" width="400"></a>
             </td>
             <td class="style1" valign="bottom">
-                <a href="cvpr17_imgs/ep_image.png"><img src="cvpr17_imgs/ep_image.png" width="400"></a>
+                <a href="images/ep_image.png"><img src="images/ep_image.png" width="400"></a>
             </td>
             <td class="style1" valign="bottom">
-                <a href="cvpr17_imgs/circles_epAlone.jpg"><img src="cvpr17_imgs/circles_epAlone.jpg" width="400"></a>
+                <a href="images/circles_epAlone.jpg"><img src="images/circles_epAlone.jpg" width="400"></a>
             </td>
         </tr>
         <tr>
