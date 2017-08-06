@@ -190,18 +190,17 @@ International Conference on Computer Vision (<b><i>CVPR</i></b>), 2017
                     <a href=""><img alt="" src="" width="330"></a>
                 </td>
                 <td>
-                    <a href="images/xu_2013_krnls.png"><img alt="" src="images/xu_2013_krnls.png" width="330"></a>
+                    <a href="images/xu_2013_krnls.png"><img alt="" src="images/xu_2013_krnls.png" width="390"></a>
                 </td>
                 <td>
-                    <a href="images/epAlone_krnls.png"><img alt="" src="images/epAlone_krnls.png" width="330"></a>
+                    <a href="images/epAlone_krnls.png"><img alt="" src="images/epAlone_krnls.png" width="390"></a>
                 </td>
                 <td>
-                    <a href="images/Xu_Ep_krnls.png"><img alt="" src="images/Xu_Ep_krnls.png" width="330"></a>
+                    <a href="images/Xu_Ep_krnls.png"><img alt="" src="images/Xu_Ep_krnls.png" width="390"></a>
                 </td>
             </tr>
             <tr>
                 <td class="style1" style="height: 22px"></td>
-                <td class="style1" style="height: 22px;"></td>
                 <td class="style1" style="height: 22px">Estimated kernels - Xu et al. CVPR 2013 </td>
                 <td class="style1" style="height: 22px">Estimated kernels - EpAlone</td>
                 <td class="style1" style="height: 22px">Estimated kernels - Xu + Ep</td>
