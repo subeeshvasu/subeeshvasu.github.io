@@ -152,42 +152,35 @@ International Conference on Computer Vision (<b><i>CVPR</i></b>), 2017
         <tbody>
             <tr>
                 <td>
-                    <a href="cvpr17_projct_page/circles/circles_blrd.png"><img alt="" src="cvpr17_projct_page/circles/circles_blrd.png" width="330"></a>
+                    <a href="images/circles_blrd.png"><img alt="" src="images/circles_blrd.png" width="390"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/circles/circles_dblrd_Whyte_2010.jpg"><img alt="" src="cvpr17_projct_page/circles/circles_dblrd_Whyte_2010.jpg" width="330"></a>
+                    <a href="images/circles_dblrd_Xu_2013.png"><img alt="" src="images/circles_dblrd_Xu_2013.png" width="390"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/circles/circles_dblrd_Xu_2013.png"><img alt="" src="cvpr17_projct_page/circles/circles_dblrd_Xu_2013.png" width="330"></a>
+                    <a href="images/circles_epAlone.jpg"><img alt="" src="images/circles_epAlone.jpg" width="390"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/circles/circles_epAlone.jpg"><img alt="" src="cvpr17_projct_page/circles/circles_epAlone.jpg" width="330"></a>
-                </td>
-                <td>
-                    <a href="cvpr17_projct_page/circles/circles_dblrd_Xu_Ep.jpg"><img alt="" src="cvpr17_projct_page/circles/circles_dblrd_Xu_Ep.jpg" width="330"></a>
+                    <a href="images/circles_dblrd_Xu_Ep.jpg"><img alt="" src="images/circles_dblrd_Xu_Ep.jpg" width="390"></a>
                 </td>
             </tr>
 
             <tr>
                 <td>
-                    <a href="cvpr17_projct_page/circles/circles_blrd_patch.png"><img alt="" src="cvpr17_projct_page/circles/circles_blrd_patch.png" width="330"></a>
+                    <a href="images/circles_blrd_patch.png"><img alt="" src="images/circles_blrd_patch.png" width="390"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/circles/circles_dblrd_Whyte_2010_patch.png"><img alt="" src="cvpr17_projct_page/circles/circles_dblrd_Whyte_2010_patch.png" width="330"></a>
+                    <a href="images/circles_dblrd_Xu_2013_patch.png"><img alt="" src="images/circles_dblrd_Xu_2013_patch.png" width="390"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/circles/circles_dblrd_Xu_2013_patch.png"><img alt="" src="cvpr17_projct_page/circles/circles_dblrd_Xu_2013_patch.png" width="330"></a>
+                    <a href="images/circles_epAlone_patch.png"><img alt="" src="images/circles_epAlone_patch.png" width="390"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/circles/circles_epAlone_patch.png"><img alt="" src="cvpr17_projct_page/circles/circles_epAlone_patch.png" width="330"></a>
-                </td>
-                <td>
-                    <a href="cvpr17_projct_page/circles/circles_dblrd_Xu_Ep_patch.png"><img alt="" src="cvpr17_projct_page/circles/circles_dblrd_Xu_Ep_patch.png" width="330"></a>
+                    <a href="images/circles_dblrd_Xu_Ep_patch.png"><img alt="" src="images/circles_dblrd_Xu_Ep_patch.png" width="390"></a>
                 </td>
             </tr>
             <tr>
                 <td class="style1" style="height: 22px">Blurred image</td>
-                <td class="style1" style="height: 22px;">Whyte et al. CVPR 2010</td>
                 <td class="style1" style="height: 22px">Xu et al. CVPR 2013 </td>
                 <td class="style1" style="height: 22px">Ours - EpAlone</td>
                 <td class="style1" style="height: 22px">Ours - Xu + Ep</td>
@@ -197,16 +190,13 @@ International Conference on Computer Vision (<b><i>CVPR</i></b>), 2017
                     <a href=""><img alt="" src="" width="330"></a>
                 </td>
                 <td>
-                    <a href=""><img alt="" src="" width="330"></a>
+                    <a href="images/xu_2013_krnls.png"><img alt="" src="images/xu_2013_krnls.png" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/circles/xu_2013_krnls.png"><img alt="" src="cvpr17_projct_page/circles/xu_2013_krnls.png" width="330"></a>
+                    <a href="images/epAlone_krnls.png"><img alt="" src="images/epAlone_krnls.png" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/circles/epAlone_krnls.png"><img alt="" src="cvpr17_projct_page/circles/epAlone_krnls.png" width="330"></a>
-                </td>
-                <td>
-                    <a href="cvpr17_projct_page/circles/Xu_Ep_krnls.png"><img alt="" src="cvpr17_projct_page/circles/Xu_Ep_krnls.png" width="330"></a>
+                    <a href="images/Xu_Ep_krnls.png"><img alt="" src="images/Xu_Ep_krnls.png" width="330"></a>
                 </td>
             </tr>
             <tr>
@@ -226,22 +216,22 @@ International Conference on Computer Vision (<b><i>CVPR</i></b>), 2017
 
             <tr>
                 <td>
-                    <a href="cvpr17_projct_page/car_forest_pan_2016/car_forest_pan_2016_SV.jpg"><img alt="" src="cvpr17_projct_page/car_forest_pan_2016/car_forest_pan_2016_SV.jpg" width="275"></a>
+                    <a href="images/car_forest_pan_2016_SV.jpg"><img alt="" src="images/car_forest_pan_2016_SV.jpg" width="275"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/car_forest_pan_2016/car_forest_Whyte.jpg"><img alt="" src="cvpr17_projct_page/car_forest_pan_2016/car_forest_Whyte.jpg" width="275"></a>
+                    <a href="images/car_forest_Whyte.jpg"><img alt="" src="images/car_forest_Whyte.jpg" width="275"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/car_forest_pan_2016/car_forest_Xu_2013.jpg"><img alt="" src="cvpr17_projct_page/car_forest_pan_2016/car_forest_Xu_2013.jpg" width="275"></a>
+                    <a href="images/car_forest_Xu_2013.jpg"><img alt="" src="images/car_forest_Xu_2013.jpg" width="275"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/car_forest_pan_2016/car_forest_Pan_2016.jpg"><img alt="" src="cvpr17_projct_page/car_forest_pan_2016/car_forest_Pan_2016.jpg" width="275"></a>
+                    <a href="images/car_forest_Pan_2016.jpg"><img alt="" src="images/car_forest_Pan_2016.jpg" width="275"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/car_forest_pan_2016/car_forest_ePAlone.jpg"><img alt="" src="cvpr17_projct_page/car_forest_pan_2016/car_forest_ePAlone.jpg" width="275"></a>
+                    <a href="images/car_forest_ePAlone.jpg"><img alt="" src="images/car_forest_ePAlone.jpg" width="275"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/car_forest_pan_2016/car_forest_Xu_E.jpg"><img alt="" src="cvpr17_projct_page/car_forest_pan_2016/car_forest_Xu_Ep.jpg" width="275"></a>
+                    <a href="images/car_forest_Xu_E.jpg"><img alt="" src="images/car_forest_Xu_Ep.jpg" width="275"></a>
                 </td>
             </tr>
             <tr>
@@ -262,19 +252,19 @@ International Conference on Computer Vision (<b><i>CVPR</i></b>), 2017
 
             <tr>
                 <td>
-                    <a href="cvpr17_projct_page/blrd2_sv_gupta/blurred2.jpg"><img alt="" src="cvpr17_projct_page/blrd2_sv_gupta/blurred2.jpg" width="330"></a>
+                    <a href="images/blurred2.jpg"><img alt="" src="images/blurred2.jpg" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd2_sv_gupta/blrd2_Gupta.jpg"><img alt="" src="cvpr17_projct_page/blrd2_sv_gupta/blrd2_Gupta.jpg" width="330"></a>
+                    <a href="images/blrd2_Gupta.jpg"><img alt="" src="images/blrd2_Gupta.jpg" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd2_sv_gupta/blrd2_Xu_2013.png"><img alt="" src="cvpr17_projct_page/blrd2_sv_gupta/blrd2_Xu_2013.png" width="330"></a>
+                    <a href="images/blrd2_Xu_2013.png"><img alt="" src="images/blrd2_Xu_2013.png" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd2_sv_gupta/blrd2_ePAlone.jpg"><img alt="" src="cvpr17_projct_page/blrd2_sv_gupta/blrd2_ePAlone.jpg" width="330"></a>
+                    <a href="images/blrd2_ePAlone.jpg"><img alt="" src="images/blrd2_ePAlone.jpg" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd2_sv_gupta/blrd2_Xu_Ep.jpg"><img alt="" src="cvpr17_projct_page/blrd2_sv_gupta/blrd2_Xu_Ep.jpg" width="330"></a>
+                    <a href="images/blrd2_Xu_Ep.jpg"><img alt="" src="images/blrd2_Xu_Ep.jpg" width="330"></a>
                 </td>
             </tr>
             <tr>
@@ -295,19 +285,19 @@ International Conference on Computer Vision (<b><i>CVPR</i></b>), 2017
 
             <tr>
                 <td>
-                    <a href="cvpr17_projct_page/blrd1_sv_gupta/blurred1.jpg"><img alt="" src="cvpr17_projct_page/blrd1_sv_gupta/blurred1.jpg" width="330"></a>
+                    <a href="images/blurred1.jpg"><img alt="" src="images/blurred1.jpg" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd1_sv_gupta/blrd1_Gupta.jpg"><img alt="" src="cvpr17_projct_page/blrd1_sv_gupta/blrd1_Gupta.jpg" width="330"></a>
+                    <a href="images/blrd1_Gupta.jpg"><img alt="" src="images/blrd1_Gupta.jpg" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd1_sv_gupta/blrd1_Xu_2013.png"><img alt="" src="cvpr17_projct_page/blrd1_sv_gupta/blrd1_Xu_2013.png" width="330"></a>
+                    <a href="images/blrd1_Xu_2013.png"><img alt="" src="images/blrd1_Xu_2013.png" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd1_sv_gupta/blrd1_ePAlone.jpg"><img alt="" src="cvpr17_projct_page/blrd1_sv_gupta/blrd1_ePAlone.jpg" width="330"></a>
+                    <a href="images/blrd1_ePAlone.jpg"><img alt="" src="images/blrd1_ePAlone.jpg" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd1_sv_gupta/blrd1_Xu_Ep.jpg"><img alt="" src="cvpr17_projct_page/blrd1_sv_gupta/blrd1_Xu_Ep.jpg" width="330"></a>
+                    <a href="images/blrd1_Xu_Ep.jpg"><img alt="" src="images/blrd1_Xu_Ep.jpg" width="330"></a>
                 </td>
             </tr>
             <tr>
@@ -326,25 +316,25 @@ International Conference on Computer Vision (<b><i>CVPR</i></b>), 2017
 
             <tr>
                 <td>
-                    <a href="cvpr17_projct_page/blrd_3_xu_gupta/blurred3_SV.jpg"><img alt="" src="cvpr17_projct_page/blrd_3_xu_gupta/blurred3_SV.jpg" width="235"></a>
+                    <a href="images/blurred3_SV.jpg"><img alt="" src="images/blurred3_SV.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd_3_xu_gupta/blrd3_Gupta.jpg"><img alt="" src="cvpr17_projct_page/blrd_3_xu_gupta/blrd3_Gupta.jpg" width="235"></a>
+                    <a href="images/blrd3_Gupta.jpg"><img alt="" src="images/blrd3_Gupta.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd_3_xu_gupta/blrd3_Whyte.jpg"><img alt="" src="cvpr17_projct_page/blrd_3_xu_gupta/blrd3_Whyte.jpg" width="235"></a>
+                    <a href="images/blrd3_Whyte.jpg"><img alt="" src="images/blrd3_Whyte.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd_3_xu_gupta/blrd3_Xu_2013.jpg"><img alt="" src="cvpr17_projct_page/blrd_3_xu_gupta/blrd3_Xu_2013.jpg" width="235"></a>
+                    <a href="images/blrd3_Xu_2013.jpg"><img alt="" src="images/blrd3_Xu_2013.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd_3_xu_gupta/blrd3_Pan_2016.jpeg"><img alt="" src="cvpr17_projct_page/blrd_3_xu_gupta/blrd3_Pan_2016.jpeg" width="235"></a>
+                    <a href="images/blrd3_Pan_2016.jpeg"><img alt="" src="images/blrd3_Pan_2016.jpeg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd_3_xu_gupta/blrd3_ePAlone.jpg"><img alt="" src="cvpr17_projct_page/blrd_3_xu_gupta/blrd3_ePAlone.jpg" width="235"></a>
+                    <a href="images/blrd3_ePAlone.jpg"><img alt="" src="images/blrd3_ePAlone.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd_3_xu_gupta/blrd3_Xu_Ep.jpg"><img alt="" src="cvpr17_projct_page/blrd_3_xu_gupta/blrd3_Xu_Ep.jpg" width="235"></a>
+                    <a href="images/blrd3_Xu_Ep.jpg"><img alt="" src="images/blrd3_Xu_Ep.jpg" width="235"></a>
                 </td>
             </tr>
             <tr>
@@ -366,19 +356,19 @@ International Conference on Computer Vision (<b><i>CVPR</i></b>), 2017
 
             <tr>
                 <td>
-                    <a href="cvpr17_projct_page/blrd_4_gupta/blrd4_Gupta.jpg"><img alt="" src="cvpr17_projct_page/blrd_4_gupta/blrd4_Gupta.jpg" width="330"></a>
+                    <a href="images/blrd4_Gupta.jpg"><img alt="" src="images/blrd4_Gupta.jpg" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd_4_gupta/blurred_r4_gpta.jpg"><img alt="" src="cvpr17_projct_page/blrd_4_gupta/blurred_r4_gpta.jpg" width="330"></a>
+                    <a href="images/blurred_r4_gpta.jpg"><img alt="" src="images/blurred_r4_gpta.jpg" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd_4_gupta/blrd4_Xu_2013.png"><img alt="" src="cvpr17_projct_page/blrd_4_gupta/blrd4_Xu_2013.png" width="330"></a>
+                    <a href="images/blrd4_Xu_2013.png"><img alt="" src="images/blrd4_Xu_2013.png" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd_4_gupta/blrd4_ePAlone.jpg"><img alt="" src="cvpr17_projct_page/blrd_4_gupta/blrd4_ePAlone.jpg" width="330"></a>
+                    <a href="images/blrd4_ePAlone.jpg"><img alt="" src="images/blrd4_ePAlone.jpg" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/blrd_4_gupta/blrd4_Xu_Ep.jpg"><img alt="" src="cvpr17_projct_page/blrd_4_gupta/blrd4_Xu_Ep.jpg" width="330"></a>
+                    <a href="images/blrd4_Xu_Ep.jpg"><img alt="" src="images/blrd4_Xu_Ep.jpg" width="330"></a>
                 </td>
             </tr>
             <tr>
@@ -398,25 +388,25 @@ International Conference on Computer Vision (<b><i>CVPR</i></b>), 2017
 
             <tr>
                 <td>
-                    <a href="cvpr17_projct_page/Butcher_Shopc_hammerling/Butcher_Shopc_sv.jpg"><img alt="" src="cvpr17_projct_page/Butcher_Shopc_hammerling/Butcher_Shopc_sv.jpg" width="235"></a>
+                    <a href="images/Butcher_Shopc_sv.jpg"><img alt="" src="images/Butcher_Shopc_sv.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Butcher_Shopc_hammerling/Butcher_hammrlin.jpg"><img alt="" src="cvpr17_projct_page/Butcher_Shopc_hammerling/Butcher_hammrlin.jpg" width="235"></a>
+                    <a href="images/Butcher_hammrlin.jpg"><img alt="" src="images/Butcher_hammrlin.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Butcher_Shopc_hammerling/Butcher_Hirsch.jpg"><img alt="" src="cvpr17_projct_page/Butcher_Shopc_hammerling/Butcher_Hirsch.jpg" width="235"></a>
+                    <a href="images/Butcher_Hirsch.jpg"><img alt="" src="images/Butcher_Hirsch.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Butcher_Shopc_hammerling/Butcher_Xu_2013.png"><img alt="" src="cvpr17_projct_page/Butcher_Shopc_hammerling/Butcher_Xu_2013.png" width="235"></a>
+                    <a href="images/Butcher_Xu_2013.png"><img alt="" src="images/Butcher_Xu_2013.png" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Butcher_Shopc_hammerling/Butcher_schuler.png"><img alt="" src="cvpr17_projct_page/Butcher_Shopc_hammerling/Butcher_schuler.png" width="235"></a>
+                    <a href="images/Butcher_schuler.png"><img alt="" src="images/Butcher_schuler.png" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Butcher_Shopc_hammerling/Butcher_ePAlone.jpg"><img alt="" src="cvpr17_projct_page/Butcher_Shopc_hammerling/Butcher_ePAlone.jpg" width="235"></a>
+                    <a href="images/Butcher_ePAlone.jpg"><img alt="" src="images/Butcher_ePAlone.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Butcher_Shopc_hammerling/Butcher_Xu_Ep.jpg"><img alt="" src="cvpr17_projct_page/Butcher_Shopc_hammerling/Butcher_Xu_Ep.jpg" width="235"></a>
+                    <a href="images/Butcher_Xu_Ep.jpg"><img alt="" src="images/Butcher_Xu_Ep.jpg" width="235"></a>
                 </td>
             </tr>
             <tr>
@@ -438,25 +428,25 @@ International Conference on Computer Vision (<b><i>CVPR</i></b>), 2017
 
             <tr>
                 <td>
-                    <a href="cvpr17_projct_page/Pantheon_whyte/Pantheon.jpg"><img alt="" src="cvpr17_projct_page/Pantheon_whyte/Pantheon.jpg" width="235"></a>
+                    <a href="images/Pantheon.jpg"><img alt="" src="images/Pantheon.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Pantheon_whyte/Pantheon_Whyte.jpg"><img alt="" src="cvpr17_projct_page/Pantheon_whyte/Pantheon_Whyte.jpg" width="235"></a>
+                    <a href="images/Pantheon_Whyte.jpg"><img alt="" src="images/Pantheon_Whyte.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Pantheon_whyte/Pantheon_Hirsch.jpg"><img alt="" src="cvpr17_projct_page/Pantheon_whyte/Pantheon_Hirsch.jpg" width="235"></a>
+                    <a href="images/Pantheon_Hirsch.jpg"><img alt="" src="images/Pantheon_Hirsch.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Pantheon_whyte/Pantheon_Xu_2013.png"><img alt="" src="cvpr17_projct_page/Pantheon_whyte/Pantheon_Xu_2013.png" width="235"></a>
+                    <a href="images/Pantheon_Xu_2013.png"><img alt="" src="images/Pantheon_Xu_2013.png" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Pantheon_whyte/Pantheon_schuler.png"><img alt="" src="cvpr17_projct_page/Pantheon_whyte/Pantheon_schuler.png" width="235"></a>
+                    <a href="images/Pantheon_schuler.png"><img alt="" src="images/Pantheon_schuler.png" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Pantheon_whyte/Pantheon_ePAlone.jpg"><img alt="" src="cvpr17_projct_page/Pantheon_whyte/Pantheon_ePAlone.jpg" width="235"></a>
+                    <a href="images/Pantheon_ePAlone.jpg"><img alt="" src="images/Pantheon_ePAlone.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Pantheon_whyte/Pantheon_Xu_Ep.jpg"><img alt="" src="cvpr17_projct_page/Pantheon_whyte/Pantheon_Xu_Ep.jpg" width="235"></a>
+                    <a href="images/Pantheon_Xu_Ep.jpg"><img alt="" src="images/Pantheon_Xu_Ep.jpg" width="235"></a>
                 </td>
             </tr>
             <tr>
@@ -478,25 +468,25 @@ International Conference on Computer Vision (<b><i>CVPR</i></b>), 2017
 
             <tr>
                 <td>
-                    <a href="cvpr17_projct_page/petrol_stn_sv_gupta/Pertol_Station_SV.jpg"><img alt="" src="cvpr17_projct_page/petrol_stn_sv_gupta/Pertol_Station_SV.jpg" width="235"></a>
+                    <a href="images/Pertol_Station_SV.jpg"><img alt="" src="images/Pertol_Station_SV.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/petrol_stn_sv_gupta/pt_stn_Gupta.jpg"><img alt="" src="cvpr17_projct_page/petrol_stn_sv_gupta/pt_stn_Gupta.jpg" width="235"></a>
+                    <a href="images/pt_stn_Gupta.jpg"><img alt="" src="images/pt_stn_Gupta.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/petrol_stn_sv_gupta/pt_stn_Whyte.jpeg"><img alt="" src="cvpr17_projct_page/petrol_stn_sv_gupta/pt_stn_Whyte.jpeg" width="235"></a>
+                    <a href="images/pt_stn_Whyte.jpeg"><img alt="" src="images/pt_stn_Whyte.jpeg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/petrol_stn_sv_gupta/pt_stn_Xu_2013.png"><img alt="" src="cvpr17_projct_page/petrol_stn_sv_gupta/pt_stn_Xu_2013.png" width="235"></a>
+                    <a href="images/pt_stn_Xu_2013.png"><img alt="" src="images/pt_stn_Xu_2013.png" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/petrol_stn_sv_gupta/pt_stn_Pan_2016.jpeg"><img alt="" src="cvpr17_projct_page/petrol_stn_sv_gupta/pt_stn_Pan_2016.jpeg" width="235"></a>
+                    <a href="images/pt_stn_Pan_2016.jpeg"><img alt="" src="images/pt_stn_Pan_2016.jpeg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/petrol_stn_sv_gupta/pt_stn_ePAlone.jpg"><img alt="" src="cvpr17_projct_page/petrol_stn_sv_gupta/pt_stn_ePAlone.jpg" width="235"></a>
+                    <a href="images/pt_stn_ePAlone.jpg"><img alt="" src="images/pt_stn_ePAlone.jpg" width="235"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/petrol_stn_sv_gupta/pt_stn_Xu_Ep.jpg"><img alt="" src="cvpr17_projct_page/petrol_stn_sv_gupta/pt_stn_Xu_Ep.jpg" width="235"></a>
+                    <a href="images/pt_stn_Xu_Ep.jpg"><img alt="" src="images/pt_stn_Xu_Ep.jpg" width="235"></a>
                 </td>
             </tr>
             <tr>
@@ -518,19 +508,19 @@ International Conference on Computer Vision (<b><i>CVPR</i></b>), 2017
 
             <tr>
                 <td>
-                    <a href="cvpr17_projct_page/Vinatge_Car_hammer/Vintage_Carc.jpg"><img alt="" src="cvpr17_projct_page/Vinatge_Car_hammer/Vintage_Carc.jpg" width="330"></a>
+                    <a href="images/Vintage_Carc.jpg"><img alt="" src="images/Vintage_Carc.jpg" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Vinatge_Car_hammer/Vintage_Carc_hammer.png"><img alt="" src="cvpr17_projct_page/Vinatge_Car_hammer/Vintage_Carc_hammer.png" width="330"></a>
+                    <a href="images/Vintage_Carc_hammer.png"><img alt="" src="images/Vintage_Carc_hammer.png" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Vinatge_Car_hammer/Vintage_Carc_Xu_2013.png"><img alt="" src="cvpr17_projct_page/Vinatge_Car_hammer/Vintage_Carc_Xu_2013.png" width="330"></a>
+                    <a href="images/Vintage_Carc_Xu_2013.png"><img alt="" src="images/Vintage_Carc_Xu_2013.png" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Vinatge_Car_hammer/Vintage_Carc_epAlone.jpg"><img alt="" src="cvpr17_projct_page/Vinatge_Car_hammer/Vintage_Carc_epAlone.jpg" width="330"></a>
+                    <a href="images/Vintage_Carc_epAlone.jpg"><img alt="" src="images/Vintage_Carc_epAlone.jpg" width="330"></a>
                 </td>
                 <td>
-                    <a href="cvpr17_projct_page/Vinatge_Car_hammer/Vintage_Carc_Xu_Ep.jpg"><img alt="" src="cvpr17_projct_page/Vinatge_Car_hammer/Vintage_Carc_Xu_Ep.jpg" width="330"></a>
+                    <a href="images/Vintage_Carc_Xu_Ep.jpg"><img alt="" src="images/Vintage_Carc_Xu_Ep.jpg" width="330"></a>
                 </td>
             </tr>
             <tr>
