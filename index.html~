@@ -41,7 +41,7 @@ I am a PhD student at the Image Processing and Computer Vision Lab, Dept. of Ele
 
 <li><p>
          <font color = "INDIANRED">Tapping Motion Blur for Robust Normal Estimation of Planar Scenes</font></a><br>
-         <!--i--><b>Subeesh Vasu</b>, A.N. Rajagopalan , Guna Seetharaman<br>
+         <!--i--><b>Subeesh Vasu</b>, A.N. Rajagopalan, and Guna Seetharaman<br>
          International Conference on Image Processing (<a href="http://icip2015.org/index.html">ICIP 2015</a>), Quebec City, Canada, SEPTEMBER 2015 
 <p>
          <a href="pdf/2015_Subeesh_Tapping_ICIP.pdf">[main paper]</a> <a href="pdf/2015_Subeesh_Tapping_ICIP_poster.pdf">[poster]</a>
@@ -52,7 +52,7 @@ I am a PhD student at the Image Processing and Computer Vision Lab, Dept. of Ele
 <br>
 <li><p>
          <font color = "INDIANRED">Deskewing by space-variant deblurring</font></a><br>
-         Karthik Seemakurthy, <!--i--><b>Subeesh Vasu</b>, A.N. Rajagopalan<br>
+         Karthik Seemakurthy, <!--i--><b>Subeesh Vasu</b>, and A.N. Rajagopalan<br>
          British Machine Vision Conference (<a href="http://bmvc2016.cs.york.ac.uk/">BMVC 2016</a>), University of York, UK, SEPTEMBER 2016 
 <p>
          <a href="pdf/2016_Seemakurthy_Deskewing_BMVC.pdf">[main paper]</a> <a href="pdf/2016_Seemakurthy_Deskewing_BMVC_supple.pdf">[supplementary]</a> <a  href="bmvc_2016_subeesh.html"><font color = "blue">[project page]</font></a>
@@ -75,11 +75,11 @@ I am a PhD student at the Image Processing and Computer Vision Lab, Dept. of Ele
 <br>
 <li>
          <font color = "INDIANRED">From local to global: Edge profiles to camera motion in blurred images</font></a><br>
-         <!--i--><b>Subeesh Vasu</b>, and A. N. Rajagopalan<br>
+         <!--i--><b>Subeesh Vasu</b> and A. N. Rajagopalan<br>
          IEEE Conference on Computer Vision and Pattern Recognition <a href="https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition">CVPR</a><a href="http://cvpr2017.thecvf.com/">2017</a>, Honolulu, Hawaii, July 2017
 
 <p>
-         <a href="pdf/2017_Subeesh_From_cvpr_main.pdf">[main paper]</a> <a href="pdf/2017_Subeesh_From_cvpr_poster.pdf">[poster]</a> <a href="pdf/2017_Subeesh_From_cvpr_supple.pdf">[supplementary]</a> <a  href="cvpr_2017_subeesh.html"><font color = "blue">[project page]</font></a>
+         <a href="pdf/2017_Subeesh_From_cvpr_main.pdf">[main paper]</a> <a href="pdf/2017_Subeesh_From_cvpr_poster.pdf">[poster]</a> <a href="pdf/2017_Subeesh_From_cvpr_supple.pdf">[supplementary]</a> <a  href="https://subeeshvasu.github.io/2017_subeesh_from_cvpr/"><font color = "blue">[project page]</font></a>
 <a href="pdf/2017_Subeesh_From_cvpr_bibtex.txt"> <strong> BibTex</strong></a> 
 
 </p></li>
