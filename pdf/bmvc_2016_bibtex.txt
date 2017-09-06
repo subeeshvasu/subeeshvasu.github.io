@@ -1,0 +1,7 @@
+@inproceedings{seemakurthy2016deskewing,
+  title={Deskewing by space-variant deblurring.},
+  author={Seemakurthy, Karthik and Vasu, Subeesh and Ambasamudram, Rajagopalan},
+  booktitle={BMVC},
+  year={2016}
+}
+
