@@ -1,27 +1,27 @@
 title_font{
-  font-family:'Trajan Pro';
+  font-family:'Arial';
   font-style: bold;
   color: white;
-  font-size: 20px;
+  font-size: 24px;
   background-color: none;
 }
 name_font{
-  font-family:'Trajan Pro';
+  font-family:'Arial';
   font-style: bold;
   color: red;
-  font-size: 30px;
+  font-size: 34px;
   background-color: none;
 }
 text_font{
   font-family:'Liberation Serif';
   color:white;
-  font-size: 16px;
+  font-size: 20px;
   background-color : none;
 }
 normal_font{
   font-family:'Times New Roman';
   color:white;
-  font-size: 18px;
+  font-size: 22px;
   background-color : none;
 }
 .navigation ul {
