@@ -1,0 +1,9 @@
+@incollection{rajagopalan2017methodology,
+  title={A Methodology to Reconstruct Large Damaged Regions in Heritage Structures},
+  author={Rajagopalan, AN and Sahay, Pratyush and Vasu, Subeesh},
+  booktitle={Digital Hampi: Preserving Indian Cultural Heritage},
+  pages={149--170},
+  year={2017},
+  publisher={Springer}
+}
+

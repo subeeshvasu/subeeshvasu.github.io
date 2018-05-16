@@ -1,0 +1,9 @@
+@article{vasu2018camera,
+  title={Camera Shutter-Independent Registration and Rectification},
+  author={Vasu, Subeesh and Rajagopalan, Ambasamudram Narayanan and Seetharaman, Guna},
+  journal={IEEE Transactions on Image Processing},
+  volume={27},
+  number={4},
+  pages={1901},
+  year={2018}
+}
