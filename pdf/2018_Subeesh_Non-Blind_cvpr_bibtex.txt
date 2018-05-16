@@ -1,0 +1,7 @@
+@inproceedings{vasu2018non-blind,
+  title={Non-blind Deblurring: Handling Kernel Uncertainty with CNNs},
+  author={Vasu, Subeesh and Maligireddy, Venkatesh Reddy and Rajagopalan, AN},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={},
+  year={2018}
+}
