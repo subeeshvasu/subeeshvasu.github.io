@@ -1,7 +1,0 @@
-@inproceedings{vasu2017local,
-  title={From local to global: Edge profiles to camera motion in blurred images},
-  author={Vasu, Subeesh and Rajagopalan, AN},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={4447--4456},
-  year={2017}
-}
