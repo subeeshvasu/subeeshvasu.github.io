@@ -1,8 +1,7 @@
 @inproceedings{vasu2018occlusion,
   title={Occlusion-Aware Rolling Shutter Rectification of 3D Scenes},
-  author = {Vasu, Subeesh and Mohan, Mahesh M. R. and Rajagopalan, A. N.},
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  pages={},
-  month = {June},
-year = {2018}
+  author={Vasu, Subeesh and MR, Mahesh Mohan and Rajagopalan, AN},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={636--645},
+  year={2018}
 }
