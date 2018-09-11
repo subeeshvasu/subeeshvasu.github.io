@@ -1,8 +1,8 @@
 @inproceedings{vasu2018joint,
-  title={Joint HDR and Super-resolution Imaging in Motion Blur},
-  author={Vasu, Subeesh and Shenoi, Abhijeet and Rajagopalan, AN},
-  booktitle={Image Processing (ICIP), 2018 IEEE International Conference on},
-  pages={},
-  year={2018}
+  title={Joint HDR and Super-Resolution Imaging in Motion Blur},
+  author={Vasu, Subeesh and Shenoi, Abhijeet and RajagopaZan, AN},
+  booktitle={2018 25th IEEE International Conference on Image Processing (ICIP)},
+  pages={2885--2889},
+  year={2018},
   organization={IEEE}
 }
