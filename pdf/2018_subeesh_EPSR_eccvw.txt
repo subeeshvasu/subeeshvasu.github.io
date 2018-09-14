@@ -1,0 +1,5 @@
+ @inproceedings{vasu2018epsr,
+    author = {Vasu, Subeesh and T.M., Nimisha and Rajagopalan, A.N.},
+    title = {Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network},
+    booktitle = {European Conference on Computer Vision (ECCV) Workshops},
+    year = {2018}}
